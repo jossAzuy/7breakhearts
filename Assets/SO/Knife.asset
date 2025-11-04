@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 379f5dc4228d0ba468f5008e0999ff4d, type: 3}
+  m_Name: Knife
+  m_EditorClassIdentifier: 
+  id: K_01
+  itemName: Cuchillo
+  ItemDescription: Esto es un cuchillo, a veces lo utilizo para rebanar pan.
+  icon: {fileID: 839652068, guid: 1ea1d58eb94c9764fb5380961f4e6aa1, type: 3}
+  worldModelPrefab: {fileID: 2066309609712438275, guid: f8d0fdb05d3ff9f4b81fb01b8165ef0d, type: 3}

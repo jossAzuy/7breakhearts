@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 379f5dc4228d0ba468f5008e0999ff4d, type: 3}
+  m_Name: Flashlight
+  m_EditorClassIdentifier: 
+  id: F_01
+  itemName: Linterna
+  ItemDescription: Esto es una linterna sirve para alumbrar, no incluye baterias.
+  icon: {fileID: 73676125, guid: 1ea1d58eb94c9764fb5380961f4e6aa1, type: 3}
+  worldModelPrefab: {fileID: 3437676463702413522, guid: 2fe128db1188d454383dffda5a6e84b1, type: 3}
